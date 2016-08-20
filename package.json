@@ -1,0 +1,19 @@
+{
+  "name": "webmasscan",
+  "version": "1.0.0",
+  "description": "scan the IP address with masscan on web interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "formidable": "1.0.9"
+
+    },
+  "keywords": [
+    "masscan"
+  ],
+  "author": "Jinbin Li",
+  "license": "ISC"
+}
